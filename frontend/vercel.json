@@ -1,34 +1,34 @@
 {
   "env": {
-    "NEXT_PUBLIC_APOLLO_CLIENT_URL": "http://localhost:4000/graphql",
-    "NEXT_PUBLIC_APOLLO_GITHUB_CLIENT_URL": "https://api.github.com/graphql",
-    "NEXT_PUBLIC_APOLLO_PRODUCT_HUNT_CLIENT_URL": "https://api.producthunt.com/v2/api/graphql",
-    "NEXT_PUBLIC_GITHUB_AUTH_TOKEN": "can't be added on github",
-    "NEXT_PUBLIC_PRODUCT_HUNT_AUTH_TOKEN": "put your producthunt auth token here",
-    "NEXT_PUBLIC_FIREBASE_API_KEY": "put your firebase api key here",
-    "NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN": "put your firebase auth domain here",
-    "NEXT_PUBLIC_FIREBASE_DATABASE_URL": "put your firebase database url here",
-    "NEXT_PUBLIC_FIREBASE_PROJECT_ID": "put your firebase project ID here",
-    "NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET": "put your firebase storage bucket here",
-    "NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID": "put your firebase message sender ID here",
-    "NEXT_PUBLIC_FIREBASE_APP_ID": "put your firebase app ID here",
-    "NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID": "put your firebase measurement ID here"
+  "NEXT_PUBLIC_APOLLO_CLIENT_URL": "https://inst-api-gpr9xkotx-odinx.vercel.app/graphql",
+      "NEXT_PUBLIC_APOLLO_GITHUB_CLIENT_URL": "https://api.github.com/graphql",
+      "NEXT_PUBLIC_APOLLO_PRODUCT_HUNT_CLIENT_URL": "https://api.producthunt.com/v2/api/graphql",
+      "NEXT_PUBLIC_GITHUB_AUTH_TOKEN": "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",
+      "NEXT_PUBLIC_PRODUCT_HUNT_AUTH_TOKEN": "put your producthunt auth token here",
+      "NEXT_PUBLIC_FIREBASE_API_KEY": "AIzaSyDs1A0IpwEwz6v7E3jJzNeFidJvgm8tOF0",
+      "NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN": "alshaaafy.firebaseapp.com",
+      "NEXT_PUBLIC_FIREBASE_DATABASE_URL": "https://alshaaafy-default-rtdb.europe-west1.firebasedatabase.app", 
+      "NEXT_PUBLIC_FIREBASE_PROJECT_ID": "alshaaafy",
+      "NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET": "alshaaafy.appspot.com",
+      "NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID": "1018696306420",
+      "NEXT_PUBLIC_FIREBASE_APP_ID": "1:1018696306420:web:f8696dd021d9dbc1ee18a1",
+      "NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID": "G-DXK1MF861Z"
   },
   "build": {
     "env": {
-      "NEXT_PUBLIC_APOLLO_CLIENT_URL": "http://localhost:4000/graphql",
+      "NEXT_PUBLIC_APOLLO_CLIENT_URL": "https://inst-api-gpr9xkotx-odinx.vercel.app/graphql",
       "NEXT_PUBLIC_APOLLO_GITHUB_CLIENT_URL": "https://api.github.com/graphql",
       "NEXT_PUBLIC_APOLLO_PRODUCT_HUNT_CLIENT_URL": "https://api.producthunt.com/v2/api/graphql",
-      "NEXT_PUBLIC_GITHUB_AUTH_TOKEN": "can't be added on github",
+      "NEXT_PUBLIC_GITHUB_AUTH_TOKEN": "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",
       "NEXT_PUBLIC_PRODUCT_HUNT_AUTH_TOKEN": "put your producthunt auth token here",
-      "NEXT_PUBLIC_FIREBASE_API_KEY": "put your firebase api key here",
-      "NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN": "put your firebase auth domain here",
-      "NEXT_PUBLIC_FIREBASE_DATABASE_URL": "put your firebase database url here",
-      "NEXT_PUBLIC_FIREBASE_PROJECT_ID": "put your firebase project ID here",
-      "NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET": "put your firebase storage bucket here",
-      "NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID": "put your firebase message sender ID here",
-      "NEXT_PUBLIC_FIREBASE_APP_ID": "put your firebase app ID here",
-      "NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID": "put your firebase measurement ID here"
+      "NEXT_PUBLIC_FIREBASE_API_KEY": "AIzaSyDs1A0IpwEwz6v7E3jJzNeFidJvgm8tOF0",
+      "NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN": "alshaaafy.firebaseapp.com",
+      "NEXT_PUBLIC_FIREBASE_DATABASE_URL": "https://alshaaafy-default-rtdb.europe-west1.firebasedatabase.app", 
+      "NEXT_PUBLIC_FIREBASE_PROJECT_ID": "alshaaafy",
+      "NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET": "alshaaafy.appspot.com",
+      "NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID": "1018696306420",
+      "NEXT_PUBLIC_FIREBASE_APP_ID": "1:1018696306420:web:f8696dd021d9dbc1ee18a1",
+      "NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID": "G-DXK1MF861Z"
     }
   }
 }
